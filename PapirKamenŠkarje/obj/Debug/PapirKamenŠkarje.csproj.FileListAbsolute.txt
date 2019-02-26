@@ -1,0 +1,10 @@
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\bin\Debug\PapirKamenŠkarje.exe.config
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\bin\Debug\PapirKamenŠkarje.exe
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\bin\Debug\PapirKamenŠkarje.pdb
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\obj\Debug\PapirKamenŠkarje.csprojAssemblyReference.cache
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\obj\Debug\PapirKamenŠkarje.Properties.Resources.resources
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\obj\Debug\PapirKamenŠkarje.csproj.GenerateResource.cache
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\obj\Debug\PapirKamenŠkarje.csproj.CoreCompileInputs.cache
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\obj\Debug\PapirKamenŠkarje.exe
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\obj\Debug\PapirKamenŠkarje.pdb
+C:\Users\izoni\source\repos\PapirKamenŠkarje\PapirKamenŠkarje\obj\Debug\PapirKamenŠkarje.Form1.resources
